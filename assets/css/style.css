@@ -561,11 +561,7 @@ figure img {
 .navbar-custom .navbar-brand {
 	font-weight: 700;
 	font-size: 22px;
-<<<<<<< HEAD
-    font-family: Lobster, cursive;
-=======
     font-family: Raleway, sans-serif;
->>>>>>> gh-pages
 }
 
 .navbar-custom .dropdown-menu {
@@ -915,11 +911,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtrotator .cbp-qtcontent.cbp-qtcurrent,
 .no-js .cbp-qtrotator .cbp-qtcontent {
-<<<<<<< HEAD
-	position: relative; 
-=======
 	position: relative;
->>>>>>> gh-pages
 	z-index: 100;
 	pointer-events: auto;
 	opacity: 1;
@@ -972,11 +964,7 @@ figure.effect-bubba:hover p {
 }
 
 /* Example for media query */
-<<<<<<< HEAD
-@media screen and (max-width: 30.6em) { 
-=======
 @media screen and (max-width: 30.6em) {
->>>>>>> gh-pages
 
 	.cbp-qtrotator {
 		font-size: 70%;
@@ -987,7 +975,3 @@ figure.effect-bubba:hover p {
 	}
 
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> gh-pages
